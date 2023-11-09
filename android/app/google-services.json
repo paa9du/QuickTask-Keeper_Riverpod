@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "134403906802",
+    "firebase_url": "https://todoriverpod-1547b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "todoriverpod-1547b",
+    "storage_bucket": "todoriverpod-1547b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134403906802:android:714e7d8dede967a95c846b",
+        "android_client_info": {
+          "package_name": "com.example.riverpod_todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB53eLjwJRcVI1M_yCN5CiX_bp_OdwPSaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
